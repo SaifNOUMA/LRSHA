@@ -1,0 +1,99 @@
+[MSGSIZE=32]
+DEBUG: average [sgn-gen] x-comp:  0.66 us
+DEBUG: average [sgn-gen] r-comp:  1.76 us
+DEBUG: average [sgn-gen] sk-comp: 1.40 us
+DEBUG: average [sgn-gen] sk-upd:  1.08 us
+DEBUG: average [sgn-gen] total:   3.15 us
+DEBUG: average req-r1:  0.00 us
+DEBUG: average req-r2:  0.00 us
+DEBUG: average req-r3:  0.00 us
+DEBUG: average sig-ver: 0.00 us
+
+[MSGSIZE=64]
+DEBUG: average [sgn-gen] x-comp:  0.64 us
+DEBUG: average [sgn-gen] r-comp:  1.74 us
+DEBUG: average [sgn-gen] sk-comp: 1.37 us
+DEBUG: average [sgn-gen] sk-upd:  1.08 us
+DEBUG: average [sgn-gen] total:   3.22 us
+DEBUG: average req-r1:  0.00 us
+DEBUG: average req-r2:  0.00 us
+DEBUG: average req-r3:  0.00 us
+DEBUG: average sig-ver: 0.00 us
+
+[MSGSIZE=128]
+DEBUG: average [sgn-gen] x-comp:  0.64 us
+DEBUG: average [sgn-gen] r-comp:  1.74 us
+DEBUG: average [sgn-gen] sk-comp: 1.40 us
+DEBUG: average [sgn-gen] sk-upd:  1.07 us
+DEBUG: average [sgn-gen] total:   3.44 us
+DEBUG: average req-r1:  0.00 us
+DEBUG: average req-r2:  0.00 us
+DEBUG: average req-r3:  0.00 us
+DEBUG: average sig-ver: 0.00 us
+
+[MSGSIZE=256]
+DEBUG: average [sgn-gen] x-comp:  0.64 us
+DEBUG: average [sgn-gen] r-comp:  1.74 us
+DEBUG: average [sgn-gen] sk-comp: 1.38 us
+DEBUG: average [sgn-gen] sk-upd:  1.08 us
+DEBUG: average [sgn-gen] total:   3.82 us
+DEBUG: average req-r1:  0.00 us
+DEBUG: average req-r2:  0.00 us
+DEBUG: average req-r3:  0.00 us
+DEBUG: average sig-ver: 0.00 us
+
+[MSGSIZE=512]
+DEBUG: average [sgn-gen] x-comp:  0.64 us
+DEBUG: average [sgn-gen] r-comp:  1.76 us
+DEBUG: average [sgn-gen] sk-comp: 1.39 us
+DEBUG: average [sgn-gen] sk-upd:  1.09 us
+DEBUG: average [sgn-gen] total:   4.67 us
+DEBUG: average req-r1:  0.00 us
+DEBUG: average req-r2:  0.00 us
+DEBUG: average req-r3:  0.00 us
+DEBUG: average sig-ver: 0.00 us
+
+[MSGSIZE=1024]
+DEBUG: average [sgn-gen] x-comp:  0.63 us
+DEBUG: average [sgn-gen] r-comp:  1.74 us
+DEBUG: average [sgn-gen] sk-comp: 1.38 us
+DEBUG: average [sgn-gen] sk-upd:  1.07 us
+DEBUG: average [sgn-gen] total:   6.20 us
+DEBUG: average req-r1:  0.00 us
+DEBUG: average req-r2:  0.00 us
+DEBUG: average req-r3:  0.00 us
+DEBUG: average sig-ver: 0.00 us
+
+[MSGSIZE=2048]
+DEBUG: average [sgn-gen] x-comp:  0.64 us
+DEBUG: average [sgn-gen] r-comp:  1.73 us
+DEBUG: average [sgn-gen] sk-comp: 1.39 us
+DEBUG: average [sgn-gen] sk-upd:  1.08 us
+DEBUG: average [sgn-gen] total:   9.33 us
+DEBUG: average req-r1:  0.00 us
+DEBUG: average req-r2:  0.00 us
+DEBUG: average req-r3:  0.00 us
+DEBUG: average sig-ver: 0.00 us
+
+[MSGSIZE=4096]
+DEBUG: average [sgn-gen] x-comp:  0.63 us
+DEBUG: average [sgn-gen] r-comp:  1.73 us
+DEBUG: average [sgn-gen] sk-comp: 1.39 us
+DEBUG: average [sgn-gen] sk-upd:  1.08 us
+DEBUG: average [sgn-gen] total:   15.58 us
+DEBUG: average req-r1:  0.00 us
+DEBUG: average req-r2:  0.00 us
+DEBUG: average req-r3:  0.00 us
+DEBUG: average sig-ver: 0.00 us
+
+[MSGSIZE=8192]
+DEBUG: average [sgn-gen] x-comp:  0.64 us
+DEBUG: average [sgn-gen] r-comp:  1.75 us
+DEBUG: average [sgn-gen] sk-comp: 1.39 us
+DEBUG: average [sgn-gen] sk-upd:  1.08 us
+DEBUG: average [sgn-gen] total:   28.13 us
+DEBUG: average req-r1:  0.00 us
+DEBUG: average req-r2:  0.00 us
+DEBUG: average req-r3:  0.00 us
+DEBUG: average sig-ver: 0.00 us
+
